@@ -6,7 +6,7 @@ The outline of the project is the following: taking Kepler data, or PLATO simula
 
 The repository contains the following folders:
 
-- "inject_retrieve", which has most of the code. The only file that should be changed by the user (unless debugging is needed) is "current_parameters.py". "ir_main.py" is the on that should be run.
+- "inject_retrieve", which has most of the code. The only file that should be changed by the user (unless debugging is needed) is "current_parameters.py". "ir_main.py" is the one that must be run.
 
 - "permanent", which has a programme to download Kepler curves, and one to bin PLATO lighcurves to any desired cadence (multiple of 25 seconds).
 
