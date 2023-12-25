@@ -13,4 +13,4 @@ The repository contains the following folders:
 - "inject-retrieve_Thesis.pdf", as its name suggests, is my undergraduate thesis.
 
 
-__Be aware:__ This code is for testing only.
+__Be aware:__ This code is for testing only. The PLATO simulated data is not included, so without access it can only be run on public Kepler data.
